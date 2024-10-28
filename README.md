@@ -1,6 +1,8 @@
+[![MasterHead](https://stories.uq.edu.au/issr/issr-annual-report-2021/assets/NlbxskXPMM/titlepage-main.gif)](https://www.linkedin.com/in/ajitesh-shukla/)
 <h1 align="center">Hi 👋, I'm Ajitesh Shukla</h1>
 <h3 align="center">An Innovative Software Engineer with Expertise in Machine Learning & Data Visualization | Python, AWS & Tableau | Go-To Engineer for Data-Driven Decisions from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 - 🌱 I’m currently learning **Langchain, huggingface**
 
 - 💬 Ask me about **Python, SQL, Data Scraping, Data analytics and Visualisation.**
